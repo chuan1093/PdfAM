@@ -33,5 +33,5 @@ python main_imagenet.py {the path of ImageNet dataset} --gpu 0,1,2,3 --epochs 10
 python main_imagenet.py {the path of ImageNet} --gpu 0,1,2,3 -j 20 -a resnet18 -e --resume {the path of pretrained .pth}
 ```
 
-We provide our trained model for resnet18 with PdfAM-Gau here: https://drive.google.com/drive/folders/1-abyz6jEy_LtPEJOM54B36_1Uqfqhcjq?usp=sharing 
+We provide our trained model for resnet18 with PdfAM-Gau here: https://drive.google.com/file/d/1iKc3SlZSYb5pFZ2KMEUgEcPmcmmxzofK/view?usp=sharing
 
