@@ -1,20 +1,3 @@
-Less Is More Important: A Probability Density Function Guided Attention Module for Convolutional Neural Networks
-
-This is an anonymous code repository for a submission to ACM MM 2022 under review.
-
-
-
-
-# Environments
-
-- OS: Ubuntu 18.04.3 LTS
-- CUDA: 10.2
-- Python: 3.6.9
-- Toolkit: PyTorch 1.4.0
-- GPU:  NVIDIA Tesla V100
-
-
-
 # Experiments
 
 ## CIFAR classification
